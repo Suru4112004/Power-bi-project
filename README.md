@@ -31,6 +31,7 @@ The goal of this report is to analyze the frequency and distribution of animal b
 
 Usage:
 This Power BI report is designed for public health officials, researchers, and anyone interested in studying trends related to animal bites, vaccination, and quarantine efforts in the UK.
+
 Images:
 ![power bi topic ](https://github.com/user-attachments/assets/aca21420-e98c-47bd-8052-a2e87ecffd4c)
 
