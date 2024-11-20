@@ -37,11 +37,8 @@ Images:
 
 ![power bi topic 2](https://github.com/user-attachments/assets/928d4316-0a51-4a7a-83a3-1099ca75d26a)
 
-conclusion:
+Conclusion:
 The Animal Bite Report - UK offers valuable insights into the trends and patterns of animal bite incidents, focusing on vaccination status, quarantine measures, and seasonal variations. By leveraging Power BI’s interactive visuals, the report helps identify key areas for public health intervention, track the effectiveness of vaccination and quarantine efforts, and understand how bite incidents vary over time and across regions. This analysis is a useful tool for public health professionals and policymakers to make data-driven decisions aimed at reducing animal bites and improving public health responses and this data will helpul for if India got this situation. 
-
-
-Certainly! Here's a more concise version of the analysis:
 
 Analysis
 In my analysis If animal bites are increasing, it’s crucial to boost vaccination efforts for both humans and animals.
